@@ -8,3 +8,4 @@ The Material UI was used to create a basic template for the dashboard interface 
 The dashboard provides a user-friendly interface to manage sales data and allows users to perform various actions such as adding new sales data, updating existing data, deleting data, and viewing sales reports with interactive charts and graphs.
 
 Overall, this project demonstrates the power of combining Spring Boot with React and Material UI to create a dynamic and responsive dashboard application that can handle complex data operations.
+![Sales Dashboard](https://github.com/Sarthak1008/Sales-DashBoard/blob/main/Sales_Dashboard_Using_React/Screenshots/Screenshot%20(4).png)
